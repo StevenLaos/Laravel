@@ -1,4 +1,4 @@
-<!-- kaustas resources/views/layouts/app.blade.php-->
+<!-- kaustas resources/views/layouts/app.blade.php -->
 
 <html>
     <head>
